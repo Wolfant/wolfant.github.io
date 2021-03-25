@@ -5,8 +5,11 @@ Ops engineer, developer, Dad of 2 , Gnu/Linux user @work Ops Architect & some da
 
 * Name: Efrain Antonio Insuati Recalde 
 * Birthday: 12/12/84
-* Github accounts: [Wolfant](https://github.com/Wolfant) | [AntonioInsuastiBP](https://github.com/AntonioInsuastiBP)
-* [LinkedIn](https://www.linkedin.com/in/antonio-insuasti-368b6743/) 
+* Github accounts:
+    * [Wolfant](https://github.com/Wolfant) 
+    * [AntonioInsuastiBP](https://github.com/AntonioInsuastiBP)
+* Linkedin: [Antonio Insuasti](https://www.linkedin.com/in/antonio-insuasti-368b6743/)
+* Twitter: [WolfantEc](https://twitter.com/WolfantEc)
 
 ## SKILLS
 ---------
