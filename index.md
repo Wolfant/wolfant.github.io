@@ -1,7 +1,7 @@
 # Antonio Insuasti
 <img src="./images/Antonio.JPG" alt="Antonio Insuasti" width="200"/>
 
-Solutions engineer, developer, Dad of 2 , Gnu/Linux user @work Solutions Architect & some days QA of production environment ;)
+Solutions Architect, developer, Dad of 2 , Gnu/Linux user @work Solutions Architect & some days QA of production environment ;)
 
 * Name: Efrain Antonio Insuati Recalde 
 * Birthday: 12/12/84
