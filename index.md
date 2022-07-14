@@ -13,7 +13,7 @@ Solutions Architect, developer, Dad of 2 , Gnu/Linux user @work Solutions Archit
 
 ## About Me
 
-Antonio Insuasti is a Software Engineer passionate for technology.
+Antonio Insuasti is a Software Engineer passionate for technology. :)
 Right now he is working as a Solutions Architect at Banco Pichincha  where he is responsible for the design of the software architecture and represents it in the C4 model; these applications are made for internal and external clients.  
 Antonio loves to work and to give consulting services at inclusive environments where every idea is well received. He prefers places where people can create technological solutions to daily problems of our society. He likes to share his knowledge and experiences to create new solutions for business problems. He is well trained to work with teams, as well as to develop his activities in work in objectives and results.
 Antonio likes speed and motorcycles. He loves to read science, sci-fi, management, and literature. He loves to travel, to know different places and cultures. He is sociable, respectful and a pets' lover.
