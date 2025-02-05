@@ -69,9 +69,17 @@ He is sociable, respectful, and a devoted pet lover.
 
 ---------
 ## EXPERIENCE
-
+* Mckinsey & Company, Panama — Cloud Architect
+     * 2022 - present
+     * Cloud Architect.
+       Lead evaluations of core systems for financial companies.
+       Provide support in creating roadmaps for CBS migration.
+       Assist financial companies in making the best decisions, guided by hypotheses and data.
+       Facilitate successful cloud migration for companies.
+       Consulting for implementing artificial intelligence solutions in business processes
+       
 * DeUna, Q​uito — Senior Solutions Architect 
-    * 2022 - Present
+    * 2022
     * Senior Solutions Architect
 
 
