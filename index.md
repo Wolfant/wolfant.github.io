@@ -13,7 +13,7 @@ Solutions Architect, developer, Dad of 2 , Gnu/Linux user @work Solutions Archit
 
 ## About Me
 
-Antonio Insuasti is a passionate Software Engineer with a love for technology. Currently, he serves as a Cloud Architect at McKinsey & Company,excelling in designing software architectures for cloud-deployed applications across mobile, web, and IoT platforms. Antonio thrives in inclusive environments where every idea is valued. 
+Antonio Insuasti is a passionate Software Engineer with a love for technology. Currently, he serves as a Cloud Architect at McKinsey & Company, excelling in designing software architectures for cloud-deployed applications across mobile, web, and IoT platforms. Antonio thrives in inclusive environments where every idea is valued. 
 He enjoys providing consulting services in spaces where people can create technological solutions to address the daily challenges of our society.
 Antonio is dedicated to sharing his knowledge and experiences to develop innovative solutions for business problems. He is skilled at working both in teams and independently, focusing on objectives and results. Outside of work, Antonio enjoys the thrill of speed and motorcycles,
 indulges in reading various genres such as science, sci-fi, management, and literature, and loves exploring new cultures through travel. 
