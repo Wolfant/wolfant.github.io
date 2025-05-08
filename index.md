@@ -60,6 +60,7 @@ He is sociable, respectful, and a devoted pet lover.
 
 ## PROFESSIONAL CERTIFICATIONS
 
+* AWS Certified Solutions Architect Associate - Validation Number: ae864a44afae4bf791a5442e543e6efe
 * IBM “Linux System Administrator” S/N ECUSFQ00228
 * Elastix Certified Engineer (ECE). S/N 200571804 – S/N 200576560
 * Digium Asterisk Certified Professional (dCap): dCap No. 2217
@@ -136,6 +137,10 @@ He is sociable, respectful, and a devoted pet lover.
 
 ---------
 ## EDUCATION
+
+* Universidad Politécnica Salesiana
+     * 2024
+     * Master's degree in Software with a specialization in System Architecture Design. 
 
 * Universidad San Francisco de Quito​
     * 2011 
